@@ -2,6 +2,12 @@
 
 ---
 
+-18 July 2022-
+
+- Began refactor utilizing useReducer.
+
+---
+
 -17 July 2022-
 
 - Began discussion on useReducer and when it is appropriate to use. Essentially when a state update is dependent on another state. Because it may update one before the other finishes its update we want to reduce to a singular state.
