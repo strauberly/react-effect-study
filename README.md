@@ -4,6 +4,12 @@
 
 -18 July 2022-
 
+- Use effect implemented in conjunction with use reducer so that state is always current and the effect only runs at determined requirement.
+
+---
+
+-18 July 2022-
+
 - Began refactor utilizing useReducer.
 
 ---
