@@ -2,7 +2,13 @@
 
 ---
 
--18 July 2022-
+-21 July 2022-
+
+- Discussed changes made through reformatting with useReducer and summarized when to useReducer vs useState. Essentially multiple related moving parts, vs small simple standalone tasks.
+
+---
+
+-20 July 2022-
 
 - Use effect implemented in conjunction with use reducer so that state is always current and the effect only runs at determined requirement.
 
