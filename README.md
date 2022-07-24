@@ -2,6 +2,12 @@
 
 ---
 
+-24 July 2022-
+
+- Discussed usefulness of context to break up creating a large chain of passed values back and forth for that data can be sent back and forth to multiple components in a more efficient manner. Next will be use of a hook for more elegant solution.
+
+---
+
 -21 July 2022-
 
 - Discussed changes made through reformatting with useReducer and summarized when to useReducer vs useState. Essentially multiple related moving parts, vs small simple standalone tasks.
