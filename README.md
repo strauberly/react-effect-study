@@ -2,6 +2,10 @@
 
 ---
 
+-2 Aug 2022-
+
+- refactored project to demonstrate useImperativeHandle hook and discuss proper usage and examples of where this technique makes sense. Regular usage is however discouraged. This completes the current project for the time being and completes the module on side effects, reducers and the context api.
+
 -1 Aug 2022-
 
 - completed lecture discussing rules of using hooks for popular implementation.
